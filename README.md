@@ -13,11 +13,11 @@ This project provides a simple website to analyze **Federal Regulations** using 
 
 ## Repository Structure
 ```
-eCFR-App/
-│-- my-app/            # React front-end application
-│   ├── public/
-│   │   ├── data.json  # Data file used for visualization
-│   ├── src/
+eCFR-App/              
+│-- public/
+│   ├── data.json      # Data file used for visualization
+|
+│-- src/               # React front-end application
 │   ├── package.json   # Dependencies & scripts
 │   ├── README.md
 │
