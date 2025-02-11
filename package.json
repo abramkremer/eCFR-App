@@ -2,7 +2,7 @@
   "name": "ecfr-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abramkremer.github.io/ecfr-app",
+  "homepage": "https://abramkremer.github.io/eCFR-App",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
